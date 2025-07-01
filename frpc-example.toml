@@ -1,6 +1,6 @@
 serverAddr = "47.108.232.65"
 serverPort = 7000
-auth.token = "TOKEN123456"
+auth.token = "token1993521"
 
 [[proxies]]
 name = "ssh"
